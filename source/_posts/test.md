@@ -1,6 +1,12 @@
 ---
 title: Test
 date: 2019-02-23 22:55:10
+categories:
+- 1
+- 1.1
+tags:
+- Test
+- blog
 ---
 # test1
 ## test2
